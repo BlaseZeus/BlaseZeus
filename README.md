@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BlaseZeus
+- 👀 I’m interested in C#, Unity, and Unreal Engine.
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on video game.
